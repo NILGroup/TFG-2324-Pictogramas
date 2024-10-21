@@ -1,0 +1,13 @@
+TEST PROMPTS
+
+arasaac, chef
+arasaac, boxer girl
+arasaac, boxer dog
+arasaac, school class
+arasaac, socks
+arasaac, marriage proposal 
+arasaac, kids plating soccer
+arasaac, mountains landscape
+arasaac, car race
+arasaac, forest fairy playing videogames, videogame controler 
+arasaac, a boy driving a blue car

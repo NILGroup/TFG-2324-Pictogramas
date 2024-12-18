@@ -2,7 +2,7 @@
 
 ## arasaac.json
 
-  JSON from https://arasaac.org/
+  JSON from [ARASAAC](https://arasaac.org/)
   
 ## downloadImages.sh
 

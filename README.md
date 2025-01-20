@@ -83,7 +83,7 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion 1.5.
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**: recomendado 0.7, rango [0.6-1]
+- **Peso del LoRA**: recomendado 0.7, rango [0.6-1.1]
 - **Parametros**: Clip Skip = 2 
 
 ### Arasaac - Estilo: Stickman
@@ -91,7 +91,7 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion 1.5.
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/arasaacStickmanXLv1.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**:
+- **Peso del LoRA**: $\pm 1.2$ 
 - **Parametros**: Clip Skip = 2 
 
 ## LoRAs Stable Diffusion XL
@@ -103,7 +103,7 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**:
+- **Peso del LoRA**: 1 
 - **Parametros**: Clip Skip = 2 
 
 ### Arasaac XL - Estilo: Stickman v1

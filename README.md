@@ -79,20 +79,24 @@ Una vez que hayas descargado el modelo y el LoRA, sigue estos pasos para generar
 Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion 1.5.
 
 ### Arasaac - Estilo: Base
-- [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/XL/arasaacXLv1)
-- [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
-- [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/configuration.json)
+- [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/StableDiffusion1.5/loraBaseStyle)
+- [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraBaseStyle/arasaacStyle.safetensors)
+- [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraBaseStyle/configuration.json)
 - **Trigegr Word**: arasaac
 - **Peso del LoRA**: recomendado 0.7, rango [0.6-1.1]
-- **Parametros**: Clip Skip = 2 
+- **Parametros**: Clip Skip = 2
+- **Resolución**: 512x512
+- **Modelos de generación basados en SD 1.5**
 
 ### Arasaac - Estilo: Stickman
-- [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/XL/arasaacStickmanXLv1)
-- [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/arasaacStickmanXLv1.safetensors)
-- [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/configuration.json)
+- [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/StableDiffusion1.5/loraStickman)
+- [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraStickman/arasaacStickman.safetensors)
+- [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraStickman/configuration.json)
 - **Trigegr Word**: arasaac
 - **Peso del LoRA**: $\pm 1.2$ 
-- **Parametros**: Clip Skip = 2 
+- **Parametros**: Clip Skip = 2
+- **Resolución**: 512x512
+- **Modelos de generación basados en SD 1.5**
 
 ## LoRAs Stable Diffusion XL
 
@@ -103,24 +107,30 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**: 1 
-- **Parametros**: Clip Skip = 2 
+- **Peso del LoRA**: $\pm 1$
+- **Parametros**: Clip Skip = 2
+- **Resolución**: 1024x1024
+- **Modelos de generación basados en SDXL**
 
 ### Arasaac XL - Estilo: Stickman v1
 - [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/XL/arasaacStickmanXLv1)
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/arasaacStickmanXLv1.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv1/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**:
-- **Parametros**: Clip Skip = 2 
+- **Peso del LoRA**: $\pm 1.1$
+- **Parametros**: Clip Skip = 2
+- **Resolución**: 1024x1024
+- **Modelos de generación basados en SDXL**
 
 ### Arasaac XL - Estilo: Stickman v2
 - [Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main/LoRAs/XL/arasaacStickmanXLv2)
 - [Modelo safetensors](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv2/arasaacStickmanXLv2.safetensors)
 - [Configuración](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv2/configuration.json)
 - **Trigegr Word**: arasaac
-- **Peso del LoRA**:
-- **Parametros**: Clip Skip = 2 
+- **Peso del LoRA**: $\pm 1.1$
+- **Parametros**: Clip Skip = 2
+- **Resolución**: 1024x1024
+- **Modelos de generación basados en SDXL**
 
 > **Recomendación**: El valor de peso indicado en cada LoRA es genérico, probar diferentes pesos a la hora de generar con los LoRAs. Según el prompt se obtienen mejores resultados con valores mas altos o bajos. 
 ---

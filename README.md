@@ -24,13 +24,13 @@ Este repositorio contiene **LoRAs** entrenados para la generación de pictograma
 
 **Estilo Base**
 
-<img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="300"> <img src="https://github.com/user-attachments/assets/975704cc-e8f6-4158-8743-ad558b3ddd8d" width="300"> 
-<img src="https://github.com/user-attachments/assets/3c6f8dc2-f67c-4173-8618-f3af12eb7736" width="300"> 
+<img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="250"> <img src="https://github.com/user-attachments/assets/975704cc-e8f6-4158-8743-ad558b3ddd8d" width="250"> 
+<img src="https://github.com/user-attachments/assets/3c6f8dc2-f67c-4173-8618-f3af12eb7736" width="250"> 
 
 **Estilo Stickman**
 
-<img src="https://github.com/user-attachments/assets/06ce93d8-be38-4047-a21c-7a8d41dbca56" width="300"> <img src="https://github.com/user-attachments/assets/d33ebd1c-2566-4a26-85d2-56c23ffd89b8" width="300"> 
-<img src="https://github.com/user-attachments/assets/b743ad30-b698-4ccc-a21c-ef4afe07d549" width="300">
+<img src="https://github.com/user-attachments/assets/06ce93d8-be38-4047-a21c-7a8d41dbca56" width="250"> <img src="https://github.com/user-attachments/assets/d33ebd1c-2566-4a26-85d2-56c23ffd89b8" width="250"> 
+<img src="https://github.com/user-attachments/assets/b743ad30-b698-4ccc-a21c-ef4afe07d549" width="250">
 
 ---
 

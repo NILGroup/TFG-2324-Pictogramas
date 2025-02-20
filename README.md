@@ -26,7 +26,7 @@ Este repositorio contiene **LoRAs** entrenados para la generación de pictograma
 
 **Estilo Stickman**
 
-![Descripción de la imagen](https://github.com/NILGroup/TFG-2324-Pictogramas/issues/2#issue-2865940629)
+![Descripción de la imagen](https://github.com/user-attachments/assets/d33ebd1c-2566-4a26-85d2-56c23ffd89b8)
 
 ---
 

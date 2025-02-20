@@ -1,5 +1,4 @@
 # TFG-2324-Pictogramas
-Repositorio para el TFG de Alejandro Antuña sobre Aplicaciones de Deep Learning en apoyo de la Comunicación Aumentativa y Alternativa
 
 Repositorio de LoRAs para generación de imágenes de pictogramas usando modelos de **Stable Diffusion**, con el objetivo ayudar a la Comunicación Aumentativa y Alternativa (CAA).
 

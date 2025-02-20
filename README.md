@@ -24,7 +24,8 @@ Este repositorio contiene **LoRAs** entrenados para la generación de pictograma
 
 **Estilo Base**
 
-<img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="300">
+<img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="300"> <img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="300"> 
+<img src="https://github.com/user-attachments/assets/448158cb-51b8-4dc4-9b50-aa8accfc9b0f" width="300"> 
 
 **Estilo Stickman**
 

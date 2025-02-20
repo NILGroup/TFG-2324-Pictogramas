@@ -20,7 +20,13 @@ Repositorio de LoRAs para generación de imágenes de pictogramas usando modelos
 
 ## Introducción
 
-Este repositorio contiene **LoRAs** entrenados para la generación de pictogramas utilizando modelos de **Stable Diffusion**. Los LoRAs están diseñados para generar imágenes con el estilo de pictogramas de la base de datos de **[ARASAAC](https://arasaac.org/)**, dos estilos disponibles Basico y Stickman.
+Este repositorio contiene **LoRAs** entrenados para la generación de pictogramas utilizando modelos de **Stable Diffusion**. Los LoRAs están diseñados para generar imágenes con el estilo de pictogramas de la base de datos de **[ARASAAC](https://arasaac.org/)**, dos estilos disponibles Base y Stickman.
+
+**Estilo Base**
+
+**Estilo Stickman**
+
+![Descripción de la imagen]([https://ruta-de-la-imagen.com/imagen.png](https://github.com/NILGroup/TFG-2324-Pictogramas/issues/2#issue-2865940629))
 
 ---
 

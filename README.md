@@ -59,6 +59,8 @@ Una vez instalada la GUI, necesitas descargar los modelos compatibles.
 Ahora, descarga los LoRAs disponibles. Asegúrate de elegir el archivo correcto según el modelo que estás utilizando.
 
 - **LoRAs disponibles**:
+  - [Arsaac Mejor Modelo SD 1.5](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraBaseStyle/arasaacStyle.safetensors)
+  - [Arasaac Stickman SD 1.5](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraStickman/arasaacStickman.safetensors)
   - [Arasaac Stickman XL v1](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
   - [Arasaac Stickman XL v2](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv2/arasaacStickmanXLv2.safetensors)
 

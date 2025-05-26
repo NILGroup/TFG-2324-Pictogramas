@@ -98,7 +98,6 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion 1.5.
 - **Trigger Word**: arasaac
 - **Peso del LoRA**: recomendado 0.7, rango [0.6-1.1]
 - **Parametros**: Clip Skip = 2
-- **Resolución**: 512x512
 - **Modelos de generación basados en SD 1.5**
 
 ### Arasaac - Estilo: Stickman
@@ -108,7 +107,6 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion 1.5.
 - **Trigger Word**: arasaac
 - **Peso del LoRA**: $\pm 1.2$ 
 - **Parametros**: Clip Skip = 2
-- **Resolución**: 512x512
 - **Modelos de generación basados en SD 1.5**
 
 ## LoRAs Stable Diffusion XL
@@ -122,7 +120,6 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 - **Trigger Word**: arasaac
 - **Peso del LoRA**: $\pm 1$
 - **Parametros**: Clip Skip = 2
-- **Resolución**: 1024x1024
 - **Modelos de generación basados en SDXL**
 
 ### Arasaac XL - Estilo: Stickman v1
@@ -132,7 +129,6 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 - **Trigger Word**: arasaac
 - **Peso del LoRA**: $\pm 1.1$
 - **Parametros**: Clip Skip = 2
-- **Resolución**: 1024x1024
 - **Modelos de generación basados en SDXL**
 
 ### Arasaac XL - Estilo: Stickman v2
@@ -142,7 +138,6 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 - **Trigger Word**: arasaac
 - **Peso del LoRA**: $\pm 1.1$
 - **Parametros**: Clip Skip = 2
-- **Resolución**: 1024x1024
 - **Modelos de generación basados en SDXL**
 
 > **Recomendación**: El valor de peso indicado en cada LoRA es genérico, probar diferentes pesos a la hora de generar con los LoRAs. Según el prompt se obtienen mejores resultados con valores mas altos o bajos. 

@@ -161,7 +161,7 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
 ## Enlaces Útiles
 
 - [Instalar GUI WebUI](https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file)
-- **[Descargar RealisticVision](https://civitai.com/models/4201/realistic-vision-v51) **-** [Descargar DreamShaper](https://civitai.com/models/4384?modelVersionId=128713) **-** [Descargar Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl) **-** [Descargar DreamShaper XL Turbo](https://civitai.com/models/112902?modelVersionId=351306)
+- [Descargar RealisticVision](https://civitai.com/models/4201/realistic-vision-v51) **-** [Descargar DreamShaper](https://civitai.com/models/4384?modelVersionId=128713) **-** [Descargar Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl) **-** [Descargar DreamShaper XL Turbo](https://civitai.com/models/112902?modelVersionId=351306)
 - [Proyecto en Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main)
 
 ---

@@ -48,7 +48,8 @@ Para utilizar los LoRAs de manera sencilla, primero necesitarás instalar una in
 Una vez instalada la GUI, necesitas descargar los modelos compatibles.
 
 - **Modelos recomendados**:
-   - **[DreamShaper](https://civitai.com/models/4384?modelVersionId=128713)**: Ideal para LoRAs entrenados con Stable Diffusion 1.5.
+   - **[RealisticVision](https://civitai.com/models/4201/realistic-vision-v51)**: Ideal para LoRAs entrenados con Stable Diffusion 1.5.
+   - **[DreamShaper](https://civitai.com/models/4384?modelVersionId=128713)**: LoRAs entrenados con Stable Diffusion 1.5.
    - **[Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl)**: Ideal para LoRAs entrenados con Stable Diffusion XL, es un modelo muy exigente.
    - **[DreamShaper XL Turbo](https://civitai.com/models/112902?modelVersionId=351306)**: LoRAs entrenados con Stable Diffusion XL, menos exigente y mas rapido que juggernaut XL.
      
@@ -61,6 +62,7 @@ Ahora, descarga los LoRAs disponibles. Asegúrate de elegir el archivo correcto 
 - **LoRAs disponibles**:
   - [Arsaac Mejor Modelo SD 1.5](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraBaseStyle/arasaacStyle.safetensors)
   - [Arasaac Stickman SD 1.5](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/StableDiffusion1.5/loraStickman/arasaacStickman.safetensors)
+  - [Arasaac Base XL](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
   - [Arasaac Stickman XL v1](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacXLv1/arasaacXLv1.safetensors)
   - [Arasaac Stickman XL v2](https://huggingface.co/antuna01/Pictogram-LoRAs/resolve/main/LoRAs/XL/arasaacStickmanXLv2/arasaacStickmanXLv2.safetensors)
 
@@ -152,14 +154,14 @@ Estos LoRAs deben ser utilizados con un modelo basado en Stable Diffusion XL.
   
 - **LoRAs estándar**: Funcionan bien con modelos basados en **Stable Diffusion 1.5** como **DreamShaper**.
 
-> **Recomendación**: Los basado en SD 1.5 han sido mas probado y sus exigencias hardware son menores, además su velocidad de generacion es superior. Empieza con **Dreamshaper** junto con el LoRA **CAMBIARRRR**`arasaacXLv1` para obtener buenos resultados.
+> **Recomendación**: Los basado en SD 1.5 han sido mas probado y sus exigencias hardware son menores, además su velocidad de generacion es superior. Empieza con **RealisticVision** junto con el LoRA "Arasaac - Estilo: Base" para obtener buenos resultados.
 
 ---
 
 ## Enlaces Útiles
 
 - [Instalar GUI WebUI](https://github.com/lllyasviel/stable-diffusion-webui-forge?tab=readme-ov-file)
-- [Descargar DreamShaper](https://civitai.com/models/4384?modelVersionId=128713) **-** [Descargar Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl) **-** [Descargar DreamShaper XL Turbo](https://civitai.com/models/112902?modelVersionId=351306)
+- **[Descargar RealisticVision](https://civitai.com/models/4201/realistic-vision-v51) **-** [Descargar DreamShaper](https://civitai.com/models/4384?modelVersionId=128713) **-** [Descargar Juggernaut XL](https://civitai.com/models/133005/juggernaut-xl) **-** [Descargar DreamShaper XL Turbo](https://civitai.com/models/112902?modelVersionId=351306)
 - [Proyecto en Huggingface](https://huggingface.co/antuna01/Pictogram-LoRAs/tree/main)
 
 ---
